@@ -106,6 +106,7 @@ Cmake_pybind_adapt/
 ├── test.py                     # 性能测试脚本
 ├── first_run.sh                # 自动化安装脚本
 ├── rebuild.sh                  # 快速重构建脚本
+├── cleanup.sh
 └── README.md
 ```
 

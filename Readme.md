@@ -108,6 +108,7 @@ pytorch-cuda-cmake-tutorial/
 ├── test.py                     # Performance test script
 ├── first_run.sh          # Automated setup script
 ├── rebuild.sh                  # Quick rebuild script
+├── cleanup.sh
 └── README.md
 ```
 
